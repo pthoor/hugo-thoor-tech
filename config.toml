@@ -1,0 +1,56 @@
+baseURL = 'https://thoor.tech/'
+languageCode = 'en-us'
+title = 'Thoor.tech'
+theme = ["hugo-notice", "m10c"]
+paginate = 8
+pygmentsUseClasses = false
+pygmentsCodefences = true
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[params]
+  author = "Pierre Thoor"
+  description = "Pierre Thoor - Product Manager writing and talking about Microsoft Cloud stuff"
+  avatar = "profile-pic.jpg"
+  favicon = "favicon.png"
+  menu_item_separator = " | "
+
+  # Default theme
+  [params.style]
+    darkestColor = "#121212"
+    darkColor = "#121212"
+    lightColor = "#afbac4"
+    lightestColor = "#ffffff"
+    primaryColor = "#ffffff"
+
+googleAnalytics = '291824266'
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ''
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'github-dark'
+    tabWidth = 4
