@@ -1,0 +1,37 @@
+{{ define "main" }}
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="terminalStyles"><polyline points="4 17 10 11 4 5"></polyline><line x1="12" y1="19" x2="20" y2="19"></line></svg>
+  <article class="post">
+    <header class="post-header">
+      {{- if ne .Type "page" }}
+      <div class="post-meta">
+        <div>
+        </br>
+          {{ partial "icon.html" (dict "ctx" $ "name" "calendar") }}
+          {{ .PublishDate.Format "Jan 2, 2006" }}
+        </div>
+        <div>
+          {{ partial "icon.html" (dict "ctx" $ "name" "coffee") }}
+          {{ .ReadingTime }} min read
+        </div>
+        {{- with .Params.tags }}
+        <div>
+          {{ partial "icon.html" (dict "ctx" $ "name" "tag") }}
+          {{- range . -}}
+            {{ with $.Site.GetPage (printf "/%s/%s" "tags" . ) }}
+              <a class="tag" href="{{ .Permalink }}">{{ .Title }}</a>
+            {{- end }}
+          {{- end }}
+        </div>
+        {{- end }}
+      </div>
+      {{- end }}
+      <h1 class ="post-title">{{ .Title }}</h1>
+    </header>
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+    <div class="post-footer">
+      {{ template "_internal/disqus.html" . }}
+    </div>
+  </article>
+{{ end }}

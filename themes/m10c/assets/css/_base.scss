@@ -1,0 +1,109 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  line-height: 1.6;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 350;
+  background: $dark-color;
+  color: $lightest-color;
+}
+
+content {
+  max-width: 500px;
+  font-weight: 350;
+  margin: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $lightest-color;
+}
+
+a {
+  color: pink;
+  transition: color 0.35s;
+  text-decoration: none;
+
+  &:hover {
+    color: blueviolet;
+  }
+}
+
+// Browsers seem to use a smaller default font-size with monospaced code
+// blocks (like 80% of the size of normal text) and that looks pretty bad with
+// small inline code-blocks in the middle of normal text (mainly because of
+// the very noticeable difference in x-height). This CSS corrects that problem.
+//code {
+//  font-family: "Lucida Console", "Courier New";
+ // font-size: 1em;
+ // color: rgba($light-color, .8);
+//}
+
+//pre {
+ // font-size: 1rem;
+  //line-height: 1.2em;
+ // margin: 0;
+ // overflow: auto;
+
+  // A larger monospaced block of text (that isn't mixed with normal text)
+  // generally looks heavier than normal text with the same font size. For this
+  // reason using a smaller monospaced font size makes sense in this situation.
+ // code {
+ //   font-size: 1.2em;
+ // }
+//}
+
+::selection {
+  background: rgba($light-color, .25);
+}
+::-moz-selection {
+  background: rgba($light-color, .25);
+}
+
+.svgicon {
+  fill: white;
+}
+:hover {
+  fill: blueviolet;
+}
+
+.inline-svg {
+  display: inline-block;
+  height: 1.15rem;
+  width: 1.15rem;
+  top: 0.15rem;
+  position: relative;
+  fill: white
+}
+
+.terminalStyles {
+  margin-right: -5px;
+  margin-bottom: -5px;
+  line{
+    animation: terminal 0.5s ease-in-out infinite;
+    animation-direction: alternate;
+  }
+}
+
+@keyframes terminal {
+  0%   { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+.blinking-cursor {
+  font-weight: 100;
+  font-size: 30px;
+  color: #ffffff;
+  animation: 0.5s blink ease-in-out infinite;
+  animation-direction: alternate;
+}
+
+@keyframes blink {
+  0%   { opacity: 1; }
+  100% { opacity: 0; }
+}

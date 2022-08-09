@@ -1,0 +1,42 @@
+.post-title {
+  color: $lightest-color;
+  font-size: 3em;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  line-height: 1em;
+}
+
+.post-content {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.3em;
+  ::selection {
+    background: blueviolet;
+  }
+  & > pre,
+  .highlight {
+    margin: 1em 0;
+    max-width: 960px;
+  }
+
+  & > pre,
+  .highlight > pre,
+  .highlight > div {
+    border-left: 0.4em solid rgba($primary-color, .8);
+    padding: .5em 1em;    
+  }
+
+  div.highlight {
+    max-width: 960px;
+  }
+  div.highlight pre {
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+
+  img {
+    max-width: 100%;
+  }
+}
+
+.post-meta {
+  font-size: 1.0em;
+}
