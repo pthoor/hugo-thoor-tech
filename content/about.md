@@ -1,5 +1,7 @@
 ---
 title: 'About'
+images: ["cover.jpg"]
+description: "Welcome to my home on the Internet!"
 ---
 
 # Hello world
@@ -21,12 +23,13 @@ Besides my normal day job I'm trying to share my knowledge by speaking at podcas
 * [Azure User Group Helsingborg - Meetup](https://www.meetup.com/azure-user-group-helsingborg/)
 * [Azure User Group Helsingborg - Homepage](https://azureusergrouphbg.se/)
 * [Teamsdagen](https://www.teamsdagen.se)
-* [AVD Tech Fest](https://www.wvdtechfest.com)
+* [AVD Tech Fest](https://www.avdtechfest.com)
 * Local User Groups in Sweden
 * [BlåSkjerm Brødrene podcast](https://podcasts.apple.com/us/podcast/bl%C3%A5skjerm-br%C3%B8drene/id1485474164)
 
 
 ## View my verified achievements at [Credly](https://www.credly.com/users/pierre-thoor/badges?sort=-state_updated_at&page=1)
+[![Credly](/Credly_Logo_White_3-Inch.png)](https://www.credly.com/users/pierre-thoor/badges?sort=-state_updated_at&page=1)
 
 ## SÄKERT podcast (Swedish)
 Find the podcast at [Spotify](https://open.spotify.com/show/7yfzP66XlZPwOS4FGbhM9T?si=2e4b75616b13490a)
