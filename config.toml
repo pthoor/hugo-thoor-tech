@@ -5,6 +5,7 @@ theme = ["hugo-notice", "m10c"]
 paginate = 8
 pygmentsUseClasses = false
 pygmentsCodefences = true
+googleAnalytics = 'G-291824266'
 
 [menu]
   [[menu.main]]
@@ -37,8 +38,6 @@ pygmentsCodefences = true
     lightColor = "#afbac4"
     lightestColor = "#ffffff"
     primaryColor = "#ffffff"
-
-googleAnalytics = 'G-291824266'
 
 [markup]
   [markup.highlight]
