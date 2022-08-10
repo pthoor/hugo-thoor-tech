@@ -2,7 +2,7 @@
 title: 'Microsoft Teams: Dynamic Group Membership'
 date: '2018-11-17T21:21:59+01:00'
 tags: ["Microsoft Teams"]
-image: "/og-image.jpg"
+images: ["cover.jpg"]
 description: "Really cool feature within Azure Active Directory. I have created a few Dynamic Groups, both for users but also for devices like “All Windows 10 Clients”, “All iPhones” and so on…"
 ---
 Really cool feature within Azure Active Directory. I have created a few Dynamic Groups, both for users but also for devices like “All Windows 10 Clients”, “All iPhones” and so on…

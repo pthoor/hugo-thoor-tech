@@ -1,7 +1,7 @@
 ---
 title: Protect Teams with Azure Sentinel
 date: '2021-11-01T21:00:00+02:00'
-image: "/cover.jpg"
+images: ["cover.jpg"]
 template: "post"
 tags: ["Sentinel"]
 description: ""

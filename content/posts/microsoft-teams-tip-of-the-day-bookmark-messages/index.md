@@ -2,7 +2,7 @@
 title: 'Microsoft Teams: Tip of the day - Bookmark messages'
 date: '2018-11-26T19:30:45+01:00'
 tags: ["Microsoft Teams"]
-image: "/og-image.jpg"
+images: ["cover.jpg"]
 description: "In Teams we can save (or bookmark) chat conversations, mentions, and other type of notifications so we can respond..."
 ---
 In Teams we can save (or bookmark) chat conversations, mentions, and other type of notifications so we can respond to them in a more convenient time.

@@ -1,7 +1,7 @@
 ---
 title: Hunt for Guests inviting other guests with Microsoft Sentinel
 date: '2021-11-21T18:30:00+02:00'
-image: "/cover.jpg"
+images: ["cover.jpg"]
 tags: ["Sentinel"]
 description: "Are we vulnerable by default? And can we hunt our guests? Warning - we cannot see all..."
 ---

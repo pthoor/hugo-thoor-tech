@@ -2,7 +2,7 @@
 title: 'Microsoft Teams: Tip of the day - Do Not Disturb'
 date: '2018-11-20T21:41:44+01:00'
 tags: ["Microsoft Teams"]
-image: "/og-image.jpg"
+images: ["cover.jpg"]
 ---
 You may noticed the Search bar in Microsoft Teams, but have you used it yet? No? Here’s one quick tip!
 

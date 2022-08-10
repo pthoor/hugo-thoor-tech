@@ -1,7 +1,7 @@
 ---
 title: Partner Center API - How to
 date: '2022-01-07T21:00:00+02:00'
-image: ""
+images: ["cover.jpg"]
 draft: true
 tags: ["Partner Center"]
 description: ""

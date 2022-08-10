@@ -1,7 +1,7 @@
 ---
 title: Protect Teams with Microsoft Sentinel - Part 2
 date: '2021-11-03T21:00:00+02:00'
-image: "/cover.jpg"
+images: ["cover.jpg"]
 tags: ["Sentinel"]
 description: "In the first part of this series we enabled the logging capability of Microsoft Teams into Microsoft (previously Azure) Sentinel. In this post we will focus on enabling a solution from the new Content Hub within Sentinel."
 ---

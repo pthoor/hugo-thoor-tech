@@ -1,7 +1,7 @@
 ---
 title: Protect Teams with Microsoft Sentinel - Part 4
 date: '2021-12-02T21:00:00+02:00'
-image: "/cover.jpg"
+images: ["cover.jpg"]
 tags: ["Sentinel"]
 description: "In this post we will look at one of the LogicApp that was included in the Teams solution that we installed in Part 2 of this series."
 ---

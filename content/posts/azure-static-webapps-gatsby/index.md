@@ -1,8 +1,7 @@
 ---
 title: Azure Static WebApps and Gatsby
 date: '2022-01-07T21:00:00+02:00'
-image: "/valprop2.png"
-template: "post"
+images: ["cover.jpg"]
 tags: ["Azure"]
 description: ""
 draft: true

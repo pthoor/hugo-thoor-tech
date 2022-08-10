@@ -1,7 +1,7 @@
 ---
 title: Protect Teams with Microsoft Sentinel - Part 3
 date: '2021-11-09T21:00:00+02:00'
-image: "/cover.jpg"
+images: ["cover.jpg"]
 tags: ["Sentinel"]
 description: ""
 ---

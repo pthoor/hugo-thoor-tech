@@ -1,7 +1,7 @@
 ---
 title: My view on Microsoft certifications
 date: '2021-11-04T22:00:00+02:00'
-image: "/cover.jpg"
+images: ["cover.jpg"]
 tags: ["Certifications"]
 description: "My first Microsoft exam was at March, 2016 and it was for the Windows Server 2012 (Exam 70-410). I was so nervous and I wrote it at a test center in the town where I live. I had studied for several weeks and had some knowledge from my time as Windows level 3 technician."
 ---
