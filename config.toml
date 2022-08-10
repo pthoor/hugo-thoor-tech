@@ -5,7 +5,6 @@ theme = ["hugo-notice", "m10c"]
 paginate = 8
 pygmentsUseClasses = false
 pygmentsCodefences = true
-googleAnalytics = 'G-291824266'
 
 [menu]
   [[menu.main]]
@@ -30,6 +29,7 @@ googleAnalytics = 'G-291824266'
   avatar = "profile-pic.jpg"
   favicon = "favicon.png"
   menu_item_separator = " | "
+  googleAnalytics = 'G-291824266'
 
   # Default theme
   [params.style]
