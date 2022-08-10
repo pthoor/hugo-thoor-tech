@@ -38,7 +38,7 @@ pygmentsCodefences = true
     lightestColor = "#ffffff"
     primaryColor = "#ffffff"
 
-googleAnalytics = '291824266'
+googleAnalytics = 'G-291824266'
 
 [markup]
   [markup.highlight]
