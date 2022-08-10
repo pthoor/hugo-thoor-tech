@@ -2,7 +2,7 @@
 title: 'Direct Access and Azure Traffic Manager'
 date: '2018-09-04T10:09:52+02:00'
 tags: ["Azure"]
-image: "/og-image.jpg"
+image: "/cover.jpg"
 description: "I was setting up an Direct Access Multisite deployment and wanted to use Azure Traffic Manager as an GSLB solution. It should work and I was reading about it at Richard Hicks blog..."
 ---
 I want to reach out and give Richard Hicks a big thank you for helping me with this issue and opening my eyes, thank you Rich! Don’t forget to visit his blog <https://directaccess.richardhicks.com> and hey, buy his book!

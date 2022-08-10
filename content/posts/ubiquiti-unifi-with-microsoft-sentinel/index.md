@@ -1,7 +1,7 @@
 ---
 title: Ubiquiti UniFi with Microsoft Sentinel
 date: '2022-01-31T09:00:00+02:00'
-image: "/og-image.jpg"
+image: "/cover.jpg"
 tags: ["Sentinel"]
 description: "How can we connect Ubiquiti UniFi to Microsoft Sentinel to be able to look at the logs and data? What do we need to install to make this happend and what's included in the solution at Content Hub? Let's find out!"
 ---

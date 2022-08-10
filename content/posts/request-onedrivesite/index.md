@@ -2,8 +2,7 @@
 title: Request-OneDriveSite
 date: '2019-05-06T21:55:40+02:00'
 tags: ["OneDrive"]
-post_format: []
-image: "/og-image.jpg"
+image: "/cover.jpg"
 description: "To automate things, that’s why Snover did create PowerShell for, we sometimes need to pre-provision users OneDrive storage..."
 ---
 To automate things, that’s why Snover did create PowerShell for, we sometimes need to pre-provision users OneDrive storage. New users will not have the storage ready when we licensed the user – instead the storage are provisioned when the user starts OneDrive – or, when we, admins, run this script.

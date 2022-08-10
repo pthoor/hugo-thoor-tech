@@ -1,7 +1,7 @@
 ---
 title: New fresh start
 date: '2021-10-28T22:00:00+02:00'
-image: "/og-image.jpg"
+image: "/cover.jpg"
 tags: ["Azure"]
 description: "Time really flyes. It's been too looooong since I did any writing in this blog. So time to get back to it, and to get some motivation..."
 ---

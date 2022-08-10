@@ -1,14 +1,14 @@
 ---
 title: Azure Cost Management API, Forecast and Power BI
 date: '2022-01-10T13:00:00+02:00'
-image: "./cost-management.png"
+image: "./cover.png"
 template: "post"
-tags: ["Cost Management"]
+tags: ["CostManagement"]
 description: "How does Azure Cost Management API work with forecasts, and Power BI visualizations, and how can we find out more about those API's - Let's find out!"
 ---
 So I have been starting to really like Power BI and what we can do to present data. In my case I want to show how the sales are going with costs, margins, trends and so on. I have been playing with the Cost Management API for some time now, and due to the lack of documentation I have been able to create some cool reports. The one thing I DON'T like is that everyone who wants to look at these amazing reports need to have a Power BI license if the creator doesn't have the Power BI Premium Capacity license - which costs from **$4,995** per month. Do you have some tip on not having the Capacity license and still be able to share some reports to users within the org without paying that huge amount, please share. I'm just a PM wanting to share my insights 😊
 
-![](./cost-management.png)
+![](./cover.png)
 
 If you want to play around with the API, here's how to.
 I started to use Postman to see if my request body actual works, since the bad documentation.

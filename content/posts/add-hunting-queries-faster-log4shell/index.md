@@ -1,7 +1,7 @@
 ---
 title: Add Hunting Queries (for Log4Shell) faster to Microsoft Sentinel
 date: '2021-12-21T21:00:00+02:00'
-image: "/ninja-cat.png"
+image: "/cover.jpg"
 template: "post"
 tags: ["Sentinel"]
 description: "Do you find it hard to add all of the Hunting Queries available to your Microsoft Sentinel Hopefully I have a PowerShell script that can help you."

@@ -1,16 +1,18 @@
 ---
 title: Protect Teams with Microsoft Sentinel - Part 4
 date: '2021-12-02T21:00:00+02:00'
-socialImage: "/og-image.jpg"
-template: "post"
-category: "Sentinel"
+image: "/cover.jpg"
+tags: ["Sentinel"]
 description: "In this post we will look at one of the LogicApp that was included in the Teams solution that we installed in Part 2 of this series."
 ---
 Now it's time to look into some of the automated response part of Microsoft Sentinel, also known as SOAR, Security Orchestration, Automation and Response. 
 
-**Read the posts in the series:**</br>
-[Part 1 - Enable logging for Teams](https://thoor.tech/blog/protect-teams-with-az-sentinel/)</br>
-[Part 2 - Install Teams Solution](https://thoor.tech/blog/protect-teams-with-ms-sentinel-part2/)</br>
+**Read the posts in the series:**
+
+[Part 1 - Enable logging for Teams](https://thoor.tech/blog/protect-teams-with-az-sentinel/)
+
+[Part 2 - Install Teams Solution](https://thoor.tech/blog/protect-teams-with-ms-sentinel-part2/)
+
 [Part 3 - Analytic Rules](https://thoor.tech/blog/protect-teams-with-ms-sentinel-part3/)
 
 In this post we will look at one of the LogicApp that was included in the Teams solution that we installed in Part 2 of this series - **IdentityProtection-TeamsBotResponse**.

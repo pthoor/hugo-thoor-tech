@@ -1,7 +1,5 @@
 ---
 title: 'About'
-customjs:
-    - "//cdn.credly.com/assets/utilities/embed.js"
 ---
 
 # Hello world
