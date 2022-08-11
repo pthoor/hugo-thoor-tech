@@ -1,6 +1,8 @@
 ---
 title: RDP Honeypot and Microsoft Sentinel Workbook
 date: '2022-05-12T08:00:00+02:00'
+aliases:
+    - /blog/rdp-honeypot-ms-sentinel-workbook/
 images: ["cover.jpg"]
 tags: ["Sentinel"]
 description: "Don't open EVERYTHING to EVERYONE. And for... use strong passwords."

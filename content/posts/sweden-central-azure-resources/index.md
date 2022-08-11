@@ -1,6 +1,8 @@
 ---
 title: Welcome Sweden Central - Which Azure Resources are available?
 date: '2021-11-16T21:00:00+02:00'
+aliases:
+    - /blog/sweden-central-azure-resources/
 images: ["cover.jpg"]
 tags: ["Azure"]
 description: "Today is the day - Sweden Central is offically open! But wait, which Azure resources are available to us and where's the prices?"

@@ -1,6 +1,8 @@
 ---
 title: Request-OneDriveSite
 date: '2019-05-06T21:55:40+02:00'
+aliases:
+    - /blog/request-onedrivesite/
 tags: ["OneDrive"]
 images: ["cover.jpg"]
 description: "To automate things, that’s why Snover did create PowerShell for, we sometimes need to pre-provision users OneDrive storage..."

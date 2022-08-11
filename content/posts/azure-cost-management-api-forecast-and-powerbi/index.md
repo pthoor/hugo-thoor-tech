@@ -1,6 +1,8 @@
 ---
 title: Azure Cost Management API, Forecast and Power BI
 date: '2022-01-10T13:00:00+02:00'
+aliases:
+    - /blog/azure-cost-management-api-forecast-and-powerbi/
 images: ["cover.jpg"]
 template: "post"
 tags: ["CostManagement"]

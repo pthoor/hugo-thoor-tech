@@ -1,6 +1,8 @@
 ---
 title: Add Twitter Threat Intelligence to Microsoft Sentinel
 date: '2022-06-04T21:00:00+02:00'
+aliases:
+    - /blog/sentinel-twitter-threatintelligence/
 images: ["cover.jpg"]
 description: "In this post we will dig down into the twitter.threatintel.rocks site and how we can use that as an TI feed to Microsoft Sentinel with PowerShell and Azure Automation Account"
 tags: ["Sentinel"]

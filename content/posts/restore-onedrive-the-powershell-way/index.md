@@ -1,6 +1,8 @@
 ---
 title: 'Restore-OneDrive (the PowerShell way)'
 date: '2019-08-12T22:09:55+02:00'
+aliases:
+    - /blog/restore-onedrive-the-powershell-way/
 tags: ["OneDrive","Microsoft 365"]
 images: ["cover.jpg"]
 description: "Recently I moved from OneDrive to OneDrive for Business (which is not automated task by the way…) and was hoping to have more control over my data..."
