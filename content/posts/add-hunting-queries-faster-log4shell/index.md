@@ -1,6 +1,8 @@
 ---
 title: Add Hunting Queries (for Log4Shell) faster to Microsoft Sentinel
 date: '2021-12-21T21:00:00+02:00'
+aliases:
+    - /blog/add-hunting-queries-faster-log4shell/
 images: ["cover.jpg"]
 template: "post"
 tags: ["Sentinel"]
