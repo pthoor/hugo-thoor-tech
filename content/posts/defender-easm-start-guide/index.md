@@ -81,4 +81,4 @@ Now let's wait and I will update the post if we will find some good stuff.
 
 **Happy hunting!**
 
-![Ninja Cat](/ninja-cat.png)
+![Ninja Cat](/static/ninja-cat.png)
