@@ -2,14 +2,14 @@
 title: Kusto Detective Agency - Hints
 date: '2022-10-21T09:00:00+02:00'
 images: ["cover.jpg"]
-tags: ["Azure"]
+tags: ["Azure","Sentinel"]
 description: "More hints to get for the Kusto Detective Agency contest - things aren’t always what they seem to be in Digitown"
 ---
 {{< notice note >}}
-*Digitown needs you and your Kusto skills!**
+**Digitown needs you and your Kusto skills!**
 {{< /notice >}}
 
-<img src="kusto_detective_agency.png" width=25% height=25%>
+![](./kusto_detective_agency.png)
 
 Are you in the middle of learning KQL (Kusto Query Language) and want some additional help with the Kusto Detective Agency?
 
@@ -39,4 +39,4 @@ I see you at the next post!
 
 **Happy hunting!**
 
-![Ninja Cat](/static/ninja-cat.png)
+![Ninja Cat](/ninja-cat.png)
