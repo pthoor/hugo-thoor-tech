@@ -8,9 +8,9 @@ description: "Welcome to my home on the Internet!"
 
 > Welcome to my home on the Internet!
 
-I'm working as a Global Common Product Manager, Microsoft Cloud at [Telia Company](https://www.teliacompany.com/en/) and living in Sweden. 
+I'm working as a Trusted Microsoft Cloud Cybersecurity Advisor at [Onevinn AB](https://www.onevinn.com/) and living in the southern part of Sweden.
 
-As a Common Product Manager (CPM) I would be end-to-end accountable for the Microsoft Cloud product at Telia Company and act as a virtual leader in the matrix, where my responsibility is to drive product vision, strategy, development, harmonization, and consolidation across markets and segments throughout the entire product lifecycle. I'm also driving community efforts around Azure and Microsoft 365.
+In this position, I'm having a laser eye focus on Microsoft Cloud security with technologies such as Microsoft Sentinel, Microsoft Defender, Azure Arc, Azure Network Security, XDR, Threat Protection, Azure Governance, and much more.
 
 Besides my normal day job I'm trying to share my knowledge by speaking at podcasts, conferences and events.
 
