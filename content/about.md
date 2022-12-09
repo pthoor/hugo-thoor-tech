@@ -20,6 +20,9 @@ Besides my normal day job I'm trying to share my knowledge by speaking at podcas
 
 ![](/MVP_Badge.jpg "Microsoft MVP")
 
+## Talks
+
+* [Stockholm Tech Show](https://stockholmtechshow.se/konferens-2023/)
 * [Azure User Group Helsingborg - Meetup](https://www.meetup.com/azure-user-group-helsingborg/)
 * [Azure User Group Helsingborg - Homepage](https://azureusergrouphbg.se/)
 * [Teamsdagen](https://www.teamsdagen.se)
@@ -30,11 +33,6 @@ Besides my normal day job I'm trying to share my knowledge by speaking at podcas
 
 ## View my verified achievements at [Credly](https://www.credly.com/users/pierre-thoor/badges?sort=-state_updated_at&page=1)
 [![Credly](/Credly_Logo_White_3-Inch.png)](https://www.credly.com/users/pierre-thoor/badges?sort=-state_updated_at&page=1)
-
-## SÄKERT podcast (Swedish)
-Find the podcast at [Spotify](https://open.spotify.com/show/7yfzP66XlZPwOS4FGbhM9T?si=2e4b75616b13490a)
-
-[![SÄKERT](/Sakert_Promo.png "SÄKERT")](https://open.spotify.com/show/7yfzP66XlZPwOS4FGbhM9T?si=2e4b75616b13490a)
 
 ## Azure & MS 365 PT-session podcast (Swedish)
 Find the podcast at [Spotify](https://open.spotify.com/show/5E3fARGuhtcC3RYbarXalT)
