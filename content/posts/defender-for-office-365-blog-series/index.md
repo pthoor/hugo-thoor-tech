@@ -1,8 +1,8 @@
 ---
 title: Defender for Office 365 Blog Series
-date: '2022-12-22T05:00:00+02:00'
+date: '2022-12-22T16:00:00+02:00'
 images: ["cover.jpg"]
-description: ""
+description: "🛡️Blog series about Microsoft Defender for Office 365 (MDO), how to get started with email authentication protocols, the different licenses SKU types, and how to configure MDO"
 tags: ["Defender"]
 ---
 I have worked with email and more particular with Microsoft Exchange Server for a while now where I have installed Edge servers, Mailbox servers, optimizing databases, configuring mail flows and all of that but when Office 365 Advanced Threat Protection (ATP) came to life it really changed how we see email protection in the cloud. Many customers that I worked with were all focused on migrating mailboxes to Office 365 and just that step was the first step for many to the cloud. And many customers stopped there as well, because all we did was migrating mailboxes. Then Microsoft Teams came and even more customers wanted their mailboxes to be migrated because they wanted to utilize the full potential of Teams with calendar functions and so on.
